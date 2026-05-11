@@ -214,10 +214,14 @@
 <br/>
 <div align="center">
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/pacman-contribution-graph-dark.svg"/>
 </picture>
 
 </div>
