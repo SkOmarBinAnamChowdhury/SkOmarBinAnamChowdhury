@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=%3E+Frontend+Developer+%2F%2F+Building+the+web+one+pixel+at+a+time;%3E+React+%7C+Next.js+%7C+Tailwind+%7C+Redux+%7C+MongoDB+%7C+Python;%3E+Currently+shipping+something+the+internet+isn't+ready+for..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=%3E+Frontend+Developer+%2F%2F+Building+the+web+one+pixel+at+a+time;%3E+JavaScript+%7C+React+%7C+Next.js+%7C+Tailwind+%7C+Redux+%7C+Node.js+%7C+MongoDB;%3E+Currently+shipping+something+the+internet+isn't+ready+for..." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -40,7 +40,7 @@
 
 ```bash
 > whoami
-  Sk Omar Bin Anam Chowdhury — Frontend Developer · UI Architect
+  Sk Omar Bin Anam Chowdhury — Frontend Developer
 
 > location
   Dhaka, Bangladesh · UTC+6
