@@ -46,7 +46,7 @@
   Dhaka, Bangladesh · UTC+6
 
 > specialization
-  React · Next.js · Tailwind CSS · Redux · MongoDB
+  React · Next.js · Tailwind CSS · Redux · Node.js
 
 > mission
  Pixel-perfect · Zero-lag · Clean code
