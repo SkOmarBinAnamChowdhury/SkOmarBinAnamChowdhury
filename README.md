@@ -1,221 +1,347 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:001a1a,100:003333&height=250&section=header&text=%3E_%20SkOmarBinAnamChowdhury&fontSize=30&fontColor=00ffcc&fontAlignY=45&desc=%5B%20initializing%20profile.exe%20...%20%5D&descSize=13&descAlignY=62&descFontColor=005544&animation=twinkling&stroke=00ffcc&strokeWidth=1" width="100%"/>
-
+<!-- TERMINAL HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0,030608,050f1a,0a1f35,00d4ff&height=230&section=header&text=>_%20Sk%20Omar%20Bin%20Anam%20Chowdhury&fontSize=34&fontColor=00d4ff&fontAlignY=50&desc=◦%20initializing%20profile.exe%20...%20◦&descSize=15&descAlignY=68&descColor=2a7a9a&animation=twinkling&fontAlign=50" />
 </div>
 
-```
-                                                                        
-  ██████╗ ██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ██████╗                 
-  ██╔═══██╗╚██╗██╔╝██╔═══██╗████╗ ████║██╔══██╗██╔══██╗               
-  ██║   ██║ ╚███╔╝ ██║   ██║██╔████╔██║███████║██████╔╝               
-  ██║   ██║ ██╔██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗               
-  ╚██████╔╝██╔╝ ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║               
-   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝               
-                                                                        
-```
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&multiline=true&width=680&height=70&lines=%5BSYS%5D+Loading+profile+of+%3A%3A+SkOmarBinAnamChowdhury+%3A%3A;%5BNET%5D+Node+active+%7C+Dhaka%2C+BD+%7C+ULAB+%2F+CSE+%2F+Group-07;%5BSTS%5D+Status%3A+ONLINE+%7C+Building+%7C+Learning+%7C+Shipping)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/◈_SYSTEM-ONLINE-00ffcc?style=flat-square&labelColor=000d0d&color=00ffcc)
-![](https://img.shields.io/badge/◈_NODE-Dhaka%2C%20BD-005544?style=flat-square&labelColor=000d0d)
-![](https://img.shields.io/badge/◈_CLASS-CSE%20%40%20ULAB-003333?style=flat-square&labelColor=000d0d)
-![](https://img.shields.io/badge/◈_MODE-Builder-001a1a?style=flat-square&labelColor=000d0d)
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=%3E+Frontend+Developer+%2F%2F+Building+the+web+one+pixel+at+a+time;%3E+React+%7C+Next.js+%7C+Tailwind+%7C+Redux+%7C+MongoDB+%7C+Python;%3E+Currently+shipping+something+the+internet+isn't+ready+for..." alt="Typing SVG" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=SkOmarBinAnamChowdhury&color=00d4ff&style=flat-square&label=◈+VIEWS)](https://github.com/SkOmarBinAnamChowdhury)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/SkOmarBinAnamChowdhury?label=◈+FOLLOWERS&style=flat-square&color=00d4ff&labelColor=030608)](https://github.com/SkOmarBinAnamChowdhury)
+&nbsp;
+![Status](https://img.shields.io/badge/◈_SYS-ONLINE-00d4ff?style=flat-square&labelColor=030608)
+
+</div>
+
+<br/>
+
 ---
 
-<details open>
-<summary><code>▸ [01] BOOT LOG — system.init()</code></summary>
 <br/>
+
+<div align="center">
+
+## `⟦ 01 ⟧  IDENTITY.exe`
+
+</div>
+
+
 
 ```bash
-$ whoami
-> SkOmarBinAnamChowdhury
+> whoami
+  Sk Omar Bin Anam Chowdhury — Frontend Developer · UI Architect
 
-$ cat /etc/identity
-  NAME       : Omar Bin Anam Chowdhury
-  HANDLE     : @SkOmarBinAnamChowdhury
-  INSTITUTE  : ULAB — Dept. of CSE   [Group 07 · Section 01]
-  LOCATION   : Dhaka, Bangladesh      [23.8°N, 90.4°E]
-  STATUS     : B.Sc CSE — Active Student
+> location
+  Dhaka, Bangladesh · UTC+6
 
-$ cat /proc/current_task
-  MISSION    : Cracking data science, one dataset at a time
-  FOCUS      : Statistics · ML · Data Analysis · Research
-  GRINDING   : STA 2101 Complex Engineering Project
-  FUN_FACT   : `print()` is my debugger. No shame. No regrets. 🐛
+> specialization
+  React · Next.js · Tailwind CSS · Redux · MongoDB
 
-$ uptime --human
-  Learning continuously for 20+ years and counting...
+> mission
+ Pixel-perfect · Zero-lag · Clean code
+
+> status
+  Open to Collaborations · Freelance · Open Source
 ```
 
-</details>
+<br/>
 
 ---
 
-<details open>
-<summary><code>▸ [02] KERNEL MODULES — tech.stack[]</code></summary>
 <br/>
 
 <div align="center">
 
-**`// LANGUAGES`**
-
-[![Python](https://img.shields.io/badge/PYTHON-▓▓▓▓▓▓▓▓▓░-00ffcc?style=for-the-badge&labelColor=000d0d&logo=python&logoColor=00ffcc)](https://python.org)
-[![C](https://img.shields.io/badge/C_LANG-▓▓▓▓▓▓░░░░-00cc99?style=for-the-badge&labelColor=000d0d&logo=c&logoColor=00cc99)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![LaTeX](https://img.shields.io/badge/LATEX-▓▓▓▓▓▓▓░░░-009977?style=for-the-badge&labelColor=000d0d&logo=latex&logoColor=009977)](https://latex-project.org)
-
-**`// DATA STACK`**
-
-[![Pandas](https://img.shields.io/badge/PANDAS-active-00ffcc?style=flat-square&labelColor=001a1a&logo=pandas&logoColor=00ffcc)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NUMPY-active-00ffcc?style=flat-square&labelColor=001a1a&logo=numpy&logoColor=00cc99)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-active-00cc99?style=flat-square&labelColor=001a1a&logo=plotly&logoColor=00cc99)](https://matplotlib.org)
-[![Seaborn](https://img.shields.io/badge/SEABORN-active-009977?style=flat-square&labelColor=001a1a&logo=python&logoColor=009977)](https://seaborn.pydata.org)
-[![Jupyter](https://img.shields.io/badge/JUPYTER-active-f37626?style=flat-square&labelColor=001a1a&logo=jupyter&logoColor=f37626)](https://jupyter.org)
-
-**`// TOOLS`**
-
-[![Git](https://img.shields.io/badge/GIT-loaded-f85149?style=flat-square&labelColor=001a1a&logo=git&logoColor=f85149)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VSCODE-loaded-00ffcc?style=flat-square&labelColor=001a1a&logo=visualstudiocode&logoColor=00ffcc)](https://code.visualstudio.com)
-[![Overleaf](https://img.shields.io/badge/OVERLEAF-loaded-00cc99?style=flat-square&labelColor=001a1a&logo=overleaf&logoColor=00cc99)](https://overleaf.com)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-loaded-00ffcc?style=flat-square&labelColor=001a1a&logo=kaggle&logoColor=00ffcc)](https://kaggle.com)
+## `⟦ 02 ⟧  TECH_ARSENAL.sys`
 
 </div>
-</details>
 
----
-
-<details open>
-<summary><code>▸ [03] PROCESS TABLE — skills.map()</code></summary>
-<br/>
-
-```
-PID   PROCESS              CPU    LOAD      PRIORITY
-────  ───────────────────  ─────  ────────  ────────
-001   python.exe           ████████████████░░░░  82%   HIGH
-002   data-analysis.exe    ███████████████░░░░░  78%   HIGH  
-003   statistics.exe       ██████████████░░░░░░  75%   HIGH
-004   latex-typeset.exe    █████████████░░░░░░░  70%   MED
-005   c-compiler.exe       ████████████░░░░░░░░  60%   MED
-006   machine-learning.py  ██████░░░░░░░░░░░░░░  32%   LOADING...
-007   deep-learning.py     ███░░░░░░░░░░░░░░░░░  18%   QUEUED...
-```
-
-</details>
-
----
-
-<details open>
-<summary><code>▸ [04] ACTIVE PROCESSES — projects.log</code></summary>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  PROJECT_ID : STA-2101-CEP                            [ACTIVE ●]   │
-│  NAME       : Student Productivity & Distraction Analysis           │
-├─────────────────────────────────────────────────────────────────────┤
-│  DATASET    : 20,000 records · 18 variables · Kaggle               │
-│  TEAM       : Group 07 · Section 01 · ULAB CSE                     │
-│  PIPELINE   :                                                       │
-│    [✓] Sampling          [✓] Frequency Distribution                │
-│    [✓] EDA               [✓] Central Tendency                      │
-│    [✓] Probability       [✓] Bayes Theorem                        │
-│    [✓] Normal Dist       [✓] Linear Regression (β₁ = 4.30)        │
-│  OUTPUT     : IEEE LaTeX · Jupyter Notebook · ReportLab PDF        │
-│  PROGRESS   : ████████████████████░░  92%                          │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  PROJECT_ID : GH-PROFILE-v3                           [DONE ✓]    │
-│  NAME       : GitHub Profile Glow-Up                               │
-├─────────────────────────────────────────────────────────────────────┤
-│  PROGRESS   : ████████████████████████  100%                       │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</details>
-
----
-
-<details open>
-<summary><code>▸ [05] TELEMETRY — github.stats()</code></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SkOmarBinAnamChowdhury&show_icons=true&hide_border=true&bg_color=000d0d&title_color=00ffcc&icon_color=00cc99&text_color=669988&ring_color=00ffcc&include_all_commits=true&count_private=true&custom_title=◈%20SYSTEM%20TELEMETRY" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkOmarBinAnamChowdhury&layout=compact&hide_border=true&bg_color=000d0d&title_color=00ffcc&text_color=669988&langs_count=6&custom_title=◈%20LANGUAGE%20MATRIX" height="170"/>
+**`// FRONTEND CORE`**
+
+![HTML5](https://img.shields.io/badge/HTML5-030608?style=for-the-badge&logo=html5&logoColor=00d4ff)
+![CSS3](https://img.shields.io/badge/CSS3-030608?style=for-the-badge&logo=css3&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-030608?style=for-the-badge&logo=javascript&logoColor=00d4ff)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SkOmarBinAnamChowdhury&hide_border=true&background=000d0d&fire=00ffcc&ring=00cc99&currStreakLabel=00ffcc&sideLabels=669988&dates=334444&sideNums=00ffcc&currStreakNum=00cc99&stroke=001a1a"/>
+**`// FRAMEWORKS`**
+
+![React](https://img.shields.io/badge/React-030608?style=for-the-badge&logo=react&logoColor=00d4ff)
+![Next.js](https://img.shields.io/badge/Next.js-030608?style=for-the-badge&logo=next.js&logoColor=00d4ff)
+![Redux](https://img.shields.io/badge/Redux-030608?style=for-the-badge&logo=redux&logoColor=00d4ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-030608?style=for-the-badge&logo=tailwind-css&logoColor=00d4ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-030608?style=for-the-badge&logo=bootstrap&logoColor=00d4ff)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkOmarBinAnamChowdhury&theme=react-dark&bg_color=000d0d&color=00ffcc&line=00cc99&point=00ffcc&hide_border=true&area=true&area_color=003333" width="100%"/>
+**`// LANGUAGES & DATABASE`**
+
+![Python](https://img.shields.io/badge/Python-030608?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java-030608?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
+![C](https://img.shields.io/badge/C-030608?style=for-the-badge&logo=c&logoColor=00d4ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-030608?style=for-the-badge&logo=mongodb&logoColor=00d4ff)
+
+<br/>
+
+**`// DEV ENVIRONMENT`**
+
+![Git](https://img.shields.io/badge/Git-030608?style=for-the-badge&logo=git&logoColor=00d4ff)
+![GitHub](https://img.shields.io/badge/GitHub-030608?style=for-the-badge&logo=github&logoColor=00d4ff)
+![VS Code](https://img.shields.io/badge/VS_Code-030608?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+![Vercel](https://img.shields.io/badge/Vercel-030608?style=for-the-badge&logo=vercel&logoColor=00d4ff)
+![Figma](https://img.shields.io/badge/Figma-030608?style=for-the-badge&logo=figma&logoColor=00d4ff)
 
 </div>
-</details>
+
+<br/>
 
 ---
 
-<details open>
-<summary><code>▸ [06] BADGE REGISTRY — achievements.db</code></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SkOmarBinAnamChowdhury&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+## `⟦ 03 ⟧  SKILL_MATRIX.dat`
 
 </div>
-</details>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  MODULE             CAPACITY             RANK        CLEARANCE      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  HTML · CSS        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%    ◈  MASTERED      ║
+║  JavaScript        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%    ◈  EXPERT        ║
+║  React · Next.js   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  87%    ◈  EXPERT        ║
+║  Tailwind CSS      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  82%    ◈  ADVANCED      ║
+║  Redux             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  72%    ◈  ADVANCED      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  MongoDB           ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  62%    ◈  OPERATIVE     ║
+║  Python            ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  57%    ◈  OPERATIVE     ║
+║  Java              ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  47%    ◈  IN TRAINING   ║
+║  C                 ▓▓▓▓▓▓▓░░░░░░░░░░░░░░  38%    ◈  IN TRAINING   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
 
 ---
 
-<details open>
-<summary><code>▸ [07] NETWORK INTERFACES — connect.sh</code></summary>
 <br/>
-
-```bash
-$ ping --all-interfaces SkOmarBinAnamChowdhury
-```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-connect-00ffcc?style=for-the-badge&labelColor=000d0d&logo=linkedin&logoColor=00ffcc)](https://linkedin.com/in/SkOmarBinAnamChowdhury)
-[![GitHub](https://img.shields.io/badge/▸_GITHUB-follow-00cc99?style=for-the-badge&labelColor=000d0d&logo=github&logoColor=00cc99)](https://github.com/SkOmarBinAnamChowdhury)
-[![Gmail](https://img.shields.io/badge/▸_GMAIL-ping-f85149?style=for-the-badge&labelColor=000d0d&logo=gmail&logoColor=f85149)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/▸_KAGGLE-explore-009977?style=for-the-badge&labelColor=000d0d&logo=kaggle&logoColor=009977)](https://kaggle.com/SkOmarBinAnamChowdhury)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=SkOmarBinAnamChowdhury&color=00ffcc&style=flat-square&label=◈+PROFILE+SCANS)
+## `⟦ 04 ⟧  GITHUB_STATS.log`
 
 </div>
-</details>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkOmarBinAnamChowdhury&show_icons=true&hide_border=true&bg_color=030608&title_color=00d4ff&icon_color=00d4ff&text_color=4a9ebb&ring_color=00d4ff&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkOmarBinAnamChowdhury&layout=compact&langs_count=8&hide_border=true&bg_color=030608&title_color=00d4ff&text_color=4a9ebb" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=SkOmarBinAnamChowdhury&hide_border=true&background=030608&ring=00d4ff&fire=00b8e6&currStreakLabel=00d4ff&sideLabels=4a9ebb&currStreakNum=00d4ff&sideNums=4a9ebb&dates=2a4a62&stroke=0a1628" />
+
+</div>
+
+<br/>
 
 ---
+
+<br/>
+
+<div align="center">
+
+## `⟦ 05 ⟧  CONTRIBUTION_MAP.grid`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SkOmarBinAnamChowdhury&bg_color=030608&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Commit+Trajectory" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `⟦ 06 ⟧  ACHIEVEMENT_LOG.exe`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SkOmarBinAnamChowdhury&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `⟦ 07 ⟧  MINI_GAME.run`
+
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   PROCESS  :  snake.exe — GitHub Contribution Edition               ║
+║   ENGINE   :  Platane/snk  ·  auto-regenerates every 6 hrs         ║
+║   RULES    :  snake eats your commit squares · watch it grow        ║
+║                                                                      ║
+║   ⚠  SETUP REQUIRED — follow the 3 steps below to activate  ⚠      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+> ### ⚙️ How to activate the Snake Game (3 steps):
+>
+> **Step 1** — In your profile repo (`SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury`), create this file:
+> `.github/workflows/snake.yml` — paste the code below into it.
+>
+> **Step 2** — Go to **Actions tab** → click **"Generate Snake"** → click **"Run workflow"** → wait ~1 min.
+>
+> **Step 3** — The snake SVG will appear below automatically ✓
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<br/>
+
+<!-- After running the workflow, this will show your snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `⟦ 08 ⟧  SIGNAL_BROADCAST.socket`
+
+</div>
+
+<br/>
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   ◈  UPLINK ESTABLISHED                                              ║
+║   ◈  PROTOCOL   :  HTTPS / TLS 1.3                                   ║
+║   ◈  ENCRYPTION :  AES-256-GCM                                       ║
+║   ◈  NODE       :  Dhaka, Bangladesh  [ 23.8°N  90.4°E ]            ║
+║   ◈  PING       :  < 1ms  ·  READY TO CONNECT                       ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-030608?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/SkOmarBinAnamChowdhury)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-030608?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/sk-omar-bin-anam-chowdhury-164343389/)
+[![Gmail](https://img.shields.io/badge/GMAIL-030608?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:skomarbinanam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-030608?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://your-portfolio.vercel.app)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
 ```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   $ exit                                                           │
-│   > Session terminated. Thanks for visiting.                       │
-│   > Drop a ⭐ if this node was worth scanning.                     │
-│                                                                    │
-│   [ crafted in dhaka, BD · powered by caffeine & obsession ]      │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "The interface is not the skin of a product —                     ║
+║    it is the product itself."                                        ║
+║                                                                      ║
+║   "Write code that works today.                                      ║
+║    Write code that survives tomorrow."                               ║
+║                                                                      ║
+║                          — Sk Omar Bin Anam Chowdhury               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003333,50:001a1a,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,030608,0a1f35,00d4ff&height=100&section=footer&text=◈+crafted+in+dhaka+·+deployed+to+the+void+·+powered+by+pure+code+◈&fontSize=12&fontColor=1a6a8a&fontAlignY=70" />
 
 </div>
