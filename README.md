@@ -17,49 +17,7 @@
 
 </div>
 
----
 
-## `⚡ whoami`
-
-```python
-#!/usr/bin/env python3
-# -----------------------------------------------
-#  profile.py  |  last updated: 2025
-# -----------------------------------------------
-
-class Developer:
-    def __init__(self):
-        self.name        =  "YOUR_NAME"
-        self.handle      =  "@YOUR_USERNAME"
-        self.university  =  "ULAB — Dept. of CSE & Engineering"
-        self.location    =  "Dhaka, Bangladesh 🇧🇩"
-        self.degree      =  "B.Sc in Computer Science & Engineering"
-
-        self.currently   =  "Building data-driven solutions 📊"
-        self.learning    =  ["Machine Learning", "Deep Learning", "Statistics"]
-        self.working_on  =  "Student Productivity & Distraction Analysis"
-        self.fun_fact    =  "I still debug with print() and I have zero regrets 🐛"
-
-    @property
-    def skills(self):
-        return {
-            "languages"  : ["Python 🐍", "C", "LaTeX"],
-            "data"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "tools"      : ["Jupyter", "Git", "VS Code", "Overleaf"],
-            "concepts"   : ["Statistics", "Linear Regression", "Probability", "EDA"],
-        }
-
-    def __repr__(self):
-        return f"Developer(name={self.name!r}, vibe='immaculate ✨')"
-
-me = Developer()
-print(me)
-# → Developer(name='YOUR_NAME', vibe='immaculate ✨')
-```
-
----
-
-## `🛠️ tech stack`
 
 <div align="center">
 
@@ -79,48 +37,24 @@ print(me)
 
 </div>
 
----
 
-## `📡 current mission`
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ACTIVE PROJECT LOG  //  STA 2101 Complex Engineering Project        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  [DATASET]   Student Productivity & Distraction                      ║
-║              20,000 records · 18 variables · sourced from Kaggle     ║
-║                                                                      ║
-║  [PIPELINE]  Sampling → Frequency Dist → EDA → Central Tendency     ║
-║              → Probability → Bayes Rule → Normal Dist → Regression   ║
-║                                                                      ║
-║  [OUTPUT]    IEEE-format LaTeX report · Jupyter Notebook · PDF       ║
-║                                                                      ║
-║  [STATUS]    ████████████████████░░░  92% COMPLETE                  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `📊 github analytics`
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00ff88&text_color=94b8d4&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=94b8d4&langs_count=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkOmarBinAnamChowdhury&layout=compact&theme=transparent&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=94b8d4&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=0d1b2a&fire=00d4ff&ring=00ff88&currStreakLabel=00d4ff&sideLabels=94b8d4&dates=4a7090&sideNums=00d4ff&currStreakNum=00ff88"/>
+<img src="https://streak-stats.demolab.com?user=SkOmarBinAnamChowdhury&theme=transparent&hide_border=true&background=0d1b2a&fire=00d4ff&ring=00ff88&currStreakLabel=00d4ff&sideLabels=94b8d4&dates=4a7090&sideNums=00d4ff&currStreakNum=00ff88"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1b2a&color=00d4ff&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00d4ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkOmarBinAnamChowdhury&theme=react-dark&bg_color=0d1b2a&color=00d4ff&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00d4ff" width="100%"/>
 
 </div>
 
@@ -130,7 +64,7 @@ print(me)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SkOmarBinAnamChowdhury&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
 
 </div>
 
@@ -150,7 +84,7 @@ print(me)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=SkOmarBinAnamChowdhury&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
