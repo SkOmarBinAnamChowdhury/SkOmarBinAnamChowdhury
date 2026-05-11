@@ -152,16 +152,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkOmarBinAnamChowdhury&show_icons=true&hide_border=true&bg_color=030608&title_color=00d4ff&icon_color=00d4ff&text_color=4a9ebb&ring_color=00d4ff&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkOmarBinAnamChowdhury&layout=compact&langs_count=8&hide_border=true&bg_color=030608&title_color=00d4ff&text_color=4a9ebb" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img width="60%" src="https://streak-stats.demolab.com/?user=SkOmarBinAnamChowdhury&hide_border=true&background=030608&ring=00d4ff&fire=00b8e6&currStreakLabel=00d4ff&sideLabels=4a9ebb&currStreakNum=00d4ff&sideNums=4a9ebb&dates=2a4a62&stroke=0a1628" />
 
 </div>
