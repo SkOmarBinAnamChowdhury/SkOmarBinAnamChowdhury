@@ -79,7 +79,7 @@
 
 <br/>
 
-**`// FRAMEWORKS`**
+**`//LIBRARY & FRAMEWORKS`**
 
 ![React](https://img.shields.io/badge/React-030608?style=for-the-badge&logo=react&logoColor=00d4ff)
 ![Next.js](https://img.shields.io/badge/Next.js-030608?style=for-the-badge&logo=next.js&logoColor=00d4ff)
