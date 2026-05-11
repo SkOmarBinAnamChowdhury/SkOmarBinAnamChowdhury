@@ -202,17 +202,17 @@
 
 <br/>
 
-<div align="center">
-
 ## `⟦ 07 ⟧  MINI_GAME.run`
+
 <br/>
+
 <div align="center">
 
 ![SNAKE](https://img.shields.io/badge/◈_SNAKE.exe_·_CONTRIBUTION_EDITION_·_RUNNING...-030608?style=for-the-badge&labelColor=030608&color=00d4ff)
 
 </div>
 
-
+<br/>
 
 <div align="center">
 
@@ -229,7 +229,6 @@
 </div>
 
 <br/>
-
 ---
 
 <br/>
