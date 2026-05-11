@@ -293,7 +293,12 @@
 ║                          — Sk Omar Bin Anam Chowdhury                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+
+
 ```
+</div>
+
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,030608,0a1f35,00d4ff&height=100&section=footer&text=◈+Crafted+by+Sk+·+Deployed+to+the+void+·+powered+by+pure+code+◈&fontSize=12&fontColor=1a6a8a&fontAlignY=70" />
 
 </div>
