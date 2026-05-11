@@ -209,67 +209,15 @@
 </div>
 
 <br/>
+<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   PROCESS  :  snake.exe — GitHub Contribution Edition               ║
-║   ENGINE   :  Platane/snk  ·  auto-regenerates every 6 hrs         ║
-║   RULES    :  snake eats your commit squares · watch it grow        ║
-║                                                                      ║
-║   ⚠  SETUP REQUIRED — follow the 3 steps below to activate  ⚠      ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-> ### ⚙️ How to activate the Snake Game (3 steps):
->
-> **Step 1** — In your profile repo (`SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury`), create this file:
-> `.github/workflows/snake.yml` — paste the code below into it.
->
-> **Step 2** — Go to **Actions tab** → click **"Generate Snake"** → click **"Run workflow"** → wait ~1 min.
->
-> **Step 3** — The snake SVG will appear below automatically ✓
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<br/>
-
-<!-- After running the workflow, this will show your snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
+</div>
 <br/>
 
 ---
