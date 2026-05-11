@@ -120,22 +120,21 @@
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  MODULE             CAPACITY             RANK        CLEARANCE      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  HTML · CSS        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%    ◈  MASTERED      ║
-║  JavaScript        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%    ◈  EXPERT        ║
-║  React · Next.js   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  87%    ◈  EXPERT        ║
-║  Tailwind CSS      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  82%    ◈  ADVANCED      ║
-║  Redux             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  72%    ◈  ADVANCED      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  MongoDB           ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  62%    ◈  OPERATIVE     ║
-║  Python            ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  57%    ◈  OPERATIVE     ║
-║  Java              ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  47%    ◈  IN TRAINING   ║
-║  C                 ▓▓▓▓▓▓▓░░░░░░░░░░░░░░  38%    ◈  IN TRAINING   ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| `MODULE` | `LEVEL` | `STATUS` |
+|:---|:---:|:---:|
+| ◈ &nbsp; HTML · CSS | `████████████████████` &nbsp; **100%** | ![MASTERED](https://img.shields.io/badge/MASTERED-030608?style=flat-square&color=030608&labelColor=030608&logoColor=00d4ff) ![■](https://img.shields.io/badge/■■■■■-00d4ff?style=flat-square&label=) |
+| ◈ &nbsp; JavaScript | `██████████████████░░` &nbsp; **90%** | ![EXPERT](https://img.shields.io/badge/EXPERT-030608?style=flat-square&color=00d4ff&labelColor=030608) |
+| ◈ &nbsp; React · Next.js | `█████████████████░░░` &nbsp; **87%** | ![EXPERT](https://img.shields.io/badge/EXPERT-030608?style=flat-square&color=00d4ff&labelColor=030608) |
+| ◈ &nbsp; Tailwind CSS | `████████████████░░░░` &nbsp; **82%** | ![ADVANCED](https://img.shields.io/badge/ADVANCED-030608?style=flat-square&color=0a7a9a&labelColor=030608) |
+| ◈ &nbsp; Redux | `██████████████░░░░░░` &nbsp; **72%** | ![ADVANCED](https://img.shields.io/badge/ADVANCED-030608?style=flat-square&color=0a7a9a&labelColor=030608) |
+| ◈ &nbsp; MongoDB | `████████████░░░░░░░░` &nbsp; **62%** | ![OPERATIVE](https://img.shields.io/badge/OPERATIVE-030608?style=flat-square&color=0a5a7a&labelColor=030608) |
+| ◈ &nbsp; Python | `███████████░░░░░░░░░` &nbsp; **57%** | ![OPERATIVE](https://img.shields.io/badge/OPERATIVE-030608?style=flat-square&color=0a5a7a&labelColor=030608) |
+| ◈ &nbsp; Java | `█████████░░░░░░░░░░░` &nbsp; **47%** | ![TRAINING](https://img.shields.io/badge/IN--TRAINING-030608?style=flat-square&color=0a3a5a&labelColor=030608) |
+| ◈ &nbsp; C | `███████░░░░░░░░░░░░░` &nbsp; **38%** | ![TRAINING](https://img.shields.io/badge/IN--TRAINING-030608?style=flat-square&color=0a3a5a&labelColor=030608) |
+
+</div>
 
 <br/>
 
@@ -286,62 +285,64 @@ jobs:
 ---
 
 <br/>
-
 <div align="center">
 
 ## `⟦ 08 ⟧  SIGNAL_BROADCAST.socket`
-
 </div>
-
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║   ◈  UPLINK ESTABLISHED                                              ║
-║   ◈  PROTOCOL   :  HTTPS / TLS 1.3                                   ║
-║   ◈  ENCRYPTION :  AES-256-GCM                                       ║
-║   ◈  NODE       :  Dhaka, Bangladesh  [ 23.8°N  90.4°E ]            ║
-║   ◈  PING       :  < 1ms  ·  READY TO CONNECT                       ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-030608?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/SkOmarBinAnamChowdhury)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-030608?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/sk-omar-bin-anam-chowdhury-164343389/)
-[![Gmail](https://img.shields.io/badge/GMAIL-030608?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:skomarbinanam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-030608?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://your-portfolio.vercel.app)
+![ESTABLISHING](https://img.shields.io/badge/◈_ESTABLISHING_SECURE_CONNECTION...-030608?style=for-the-badge&labelColor=030608&color=00d4ff)
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
+| `◈ CHANNEL` | `◈ ADDRESS` | `◈ STATUS` |
+|:---:|:---:|:---:|
+| ![GitHub](https://img.shields.io/badge/GITHUB-030608?style=for-the-badge&logo=github&logoColor=00d4ff) | [SkOmarBinAnamChowdhury](https://github.com/SkOmarBinAnamChowdhury) | [![LIVE](https://img.shields.io/badge/LIVE-00d4ff?style=flat-square&labelColor=030608)](https://github.com/SkOmarBinAnamChowdhury) |
+| ![LinkedIn](https://img.shields.io/badge/LINKEDIN-030608?style=for-the-badge&logo=linkedin&logoColor=00d4ff) | [sk-omar-bin-anam-chowdhury](https://www.linkedin.com/in/sk-omar-bin-anam-chowdhury-164343389/) | [![LIVE](https://img.shields.io/badge/LIVE-00d4ff?style=flat-square&labelColor=030608)](https://www.linkedin.com/in/sk-omar-bin-anam-chowdhury-164343389/) |
+| ![Gmail](https://img.shields.io/badge/GMAIL-030608?style=for-the-badge&logo=gmail&logoColor=00d4ff) | [skomarbinanam@gmail.com](mailto:skomarbinanam@gmail.com) | [![LIVE](https://img.shields.io/badge/LIVE-00d4ff?style=flat-square&labelColor=030608)](mailto:skomarbinanam@gmail.com) |
+| ![Portfolio](https://img.shields.io/badge/PORTFOLIO-030608?style=for-the-badge&logo=vercel&logoColor=00d4ff) | [your-portfolio.vercel.app](https://your-portfolio.vercel.app) | ![DEPLOYING](https://img.shields.io/badge/DEPLOYING-0a3a5a?style=flat-square&labelColor=030608) |
+</div>
 <br/>
 
 <div align="center">
+
+![TRANSMISSION](https://img.shields.io/badge/◈_TRANSMISSION_COMPLETE_·_AWAITING_RESPONSE-030608?style=for-the-badge&labelColor=030608&color=0a3a5a)
+
+</div>
+
+<br/>
+
+
+<br/>
+
+
+## 
+
+
+<div align="center">
+
+
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   "The interface is not the skin of a product —                     ║
+║   "The interface is not the skin of a product —                      ║
 ║    it is the product itself."                                        ║
 ║                                                                      ║
 ║   "Write code that works today.                                      ║
 ║    Write code that survives tomorrow."                               ║
 ║                                                                      ║
-║                          — Sk Omar Bin Anam Chowdhury               ║
+║                          — Sk Omar Bin Anam Chowdhury                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,030608,0a1f35,00d4ff&height=100&section=footer&text=◈+crafted+in+dhaka+·+deployed+to+the+void+·+powered+by+pure+code+◈&fontSize=12&fontColor=1a6a8a&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,030608,0a1f35,00d4ff&height=100&section=footer&text=◈+Crafted+by+Sk+·+Deployed+to+the+void+·+powered+by+pure+code+◈&fontSize=12&fontColor=1a6a8a&fontAlignY=70" />
 
 </div>
