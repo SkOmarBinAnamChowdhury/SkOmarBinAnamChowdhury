@@ -199,39 +199,34 @@
 <br/>
 
 ---
-
 <br/>
-
 <div align="center">
 
 ## `⟦ 07 ⟧  SNAKE.run`
 
 </div>
-
 <br/>
-
 <div align="center">
 
-![SNAKE](https://img.shields.io/badge/◈_SNAKE.exe_·_CONTRIBUTION_EDITION_·_RUNNING...-030608?style=for-the-badge&labelColor=030608&color=00d4ff)
+![SNAKE](https://img.shields.io/badge/◈_SNAKE.exe_·_CONTRIBUTION_EDITION_·_RUNNING...-030608?style=for-the-badge&labelColor=030608&color=1a3a6b)
 
 </div>
-
 <br/>
-
 <div align="center">
 
-<img alt="Snake animation" src="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SkOmarBinAnamChowdhury/SkOmarBinAnamChowdhury/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
-
 <br/>
-
 <div align="center">
 
-![SCORE](https://img.shields.io/badge/◈_SCANNING_GALAXY_·_COMMITS_DETECTED-030608?style=for-the-badge&labelColor=030608&color=0a3a5a)
+![SCORE](https://img.shields.io/badge/◈_SCANNING_GALAXY_·_COMMITS_DETECTED-030608?style=for-the-badge&labelColor=030608&color=0a1a3a)
 
 </div>
-
 <br/>
 
 
