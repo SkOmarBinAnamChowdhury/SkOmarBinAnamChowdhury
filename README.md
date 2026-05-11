@@ -202,7 +202,11 @@
 
 <br/>
 
-## `⟦ 07 ⟧  MINI_GAME.run`
+<div align="center">
+
+## `⟦ 07 ⟧  SNAKE.run`
+
+</div>
 
 <br/>
 
@@ -229,7 +233,7 @@
 </div>
 
 <br/>
----
+
 
 <br/>
 <div align="center">
