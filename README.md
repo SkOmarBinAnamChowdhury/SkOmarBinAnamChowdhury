@@ -283,7 +283,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   "The interface is not the skin of a product —                      ║
+║   "The interface is not the skin of a product,                       ║
 ║    it is the product itself."                                        ║
 ║                                                                      ║
 ║   "Write code that works today.                                      ║
