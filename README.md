@@ -257,7 +257,7 @@
 | ![GitHub](https://img.shields.io/badge/GITHUB-030608?style=for-the-badge&logo=github&logoColor=00d4ff) | [SkOmarBinAnamChowdhury](https://github.com/SkOmarBinAnamChowdhury) | [![LIVE](https://img.shields.io/badge/LIVE-00d4ff?style=flat-square&labelColor=030608)](https://github.com/SkOmarBinAnamChowdhury) |
 | ![LinkedIn](https://img.shields.io/badge/LINKEDIN-030608?style=for-the-badge&logo=linkedin&logoColor=00d4ff) | [sk-omar-bin-anam-chowdhury](https://www.linkedin.com/in/sk-omar-bin-anam-chowdhury-164343389/) | [![LIVE](https://img.shields.io/badge/LIVE-00d4ff?style=flat-square&labelColor=030608)](https://www.linkedin.com/in/sk-omar-bin-anam-chowdhury-164343389/) |
 | ![Gmail](https://img.shields.io/badge/GMAIL-030608?style=for-the-badge&logo=gmail&logoColor=00d4ff) | [skomarbinanam@gmail.com](mailto:skomarbinanam@gmail.com) | [![LIVE](https://img.shields.io/badge/LIVE-00d4ff?style=flat-square&labelColor=030608)](mailto:skomarbinanam@gmail.com) |
-| ![Portfolio](https://img.shields.io/badge/PORTFOLIO-030608?style=for-the-badge&logo=vercel&logoColor=00d4ff) | [your-portfolio.vercel.app](https://your-portfolio.vercel.app) | ![DEPLOYING](https://img.shields.io/badge/DEPLOYING-0a3a5a?style=flat-square&labelColor=030608) |
+| ![Portfolio](https://img.shields.io/badge/PORTFOLIO-030608?style=for-the-badge&logo=vercel&logoColor=00d4ff) | [your-portfolio.vercel.app](https://my-portfolio.vercel.app) | ![DEPLOYING](https://img.shields.io/badge/DEPLOYING-0a3a5a?style=flat-square&labelColor=030608) |
 </div>
 <br/>
 
