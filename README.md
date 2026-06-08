@@ -15,12 +15,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=%3E+Frontend+Developer+%2F%2F+Building+the+web+one+pixel+at+a+time;%3E+JavaScript+%7C+React+%7C+Next.js+%7C+Tailwind+%7C+Redux+%7C+Node.js+%7C+MongoDB;%3E+Currently+shipping+something+the+internet+isn't+ready+for..." alt="Typing SVG" />
 
 <br/><br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=SkOmarBinAnamChowdhury&color=00d4ff&style=flat-square&label=◈+VIEWS)](https://github.com/SkOmarBinAnamChowdhury)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/SkOmarBinAnamChowdhury?label=◈+FOLLOWERS&style=flat-square&color=00d4ff&labelColor=030608)](https://github.com/SkOmarBinAnamChowdhury)
-&nbsp;
 ![Status](https://img.shields.io/badge/◈_SYS-ONLINE-00d4ff?style=flat-square&labelColor=030608)
+&nbsp;
+![Profile](https://img.shields.io/badge/◈_PROFILE-ACTIVE-00d4ff?style=flat-square&labelColor=030608)
 
 </div>
 
@@ -190,8 +189,7 @@
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SkOmarBinAnamChowdhury&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkOmarBinAnamChowdhury&theme=nord_dark" />
 
 </div>
 
@@ -207,7 +205,7 @@
 <br/>
 <div align="center">
 
-![SNAKE](https://img.shields.io/badge/◈_PAC.exe_·_CONTRIBUTION_EDITION_·_RUNNING...-030608?style=for-the-badge&labelColor=030608&color=1a3a6b)
+![PACMAN](https://img.shields.io/badge/◈_PAC.exe_·_CONTRIBUTION_EDITION_·_RUNNING...-030608?style=for-the-badge&labelColor=030608&color=1a3a6b)
 
 </div>
 <br/>
